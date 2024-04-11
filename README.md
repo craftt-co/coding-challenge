@@ -23,7 +23,6 @@ From the root folder execute the following commands:
 
 The server application is bootstraped with create-react-app typescript template and use axios to fetch information from the backend.
 
-
 ### How to start the application
 
 From the root folder execute the following commands:
